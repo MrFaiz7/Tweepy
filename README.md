@@ -6,3 +6,9 @@ Tweepy is an open source Python package that gives you a very convenient way to 
 - OAuth authentication
 - Rate limits
 - Streams
+# Twitter API
+The Twitter API gives developers access to most of Twitter’s functionality. You can use the API to read and write information related to Twitter entities such as tweets, users, and trends.
+The Twitter API uses OAuth, a widely used open authorization protocol, to authenticate all the requests. Before making any call to the Twitter API, you need to create and configure your authentication credentials.
+
+### Go to Twitter Developer website to create your own project and tokens
+https://developer.twitter.com/
